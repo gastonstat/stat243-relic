@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Stat 243
+tagline:          'UCB - Stat 243'
+description:      'Introduction to Statistical Computing.'
+url:              http://gastonsanchez.com/stat243
+baseurl:          http://gastonsanchez.com/stat243
+
+author:
+  name:           'Gaston Sanchez'
+  url:            http://gastonsanchez.com
+
+paginate:         5
+
+# Custom vars
+version:          Fall 2016
+
+github:
+  repo:           https://github.com/ucb-stat243/stat243-fall-2016
