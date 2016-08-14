@@ -9,41 +9,80 @@ title: Syllabus
 
 ### Description and Outline
 
-__Statistics 159__ is a course designed to cover philosophy, software tools, 
-principles and best practices for reproducible computational research.
-Time permitting, the topics covered during the course include
-(not necessarily in this order):
+__Statistics 243__ is an introduction to statistical computing taught using R. 
+The course will cover both programming concepts and statistical computing 
+concepts. 
 
-<i class="fa fa-folder"></i>&nbsp;&nbsp;Shell (Bash) & Command Line Interface (CLI)<br>
-<i class="fa fa-git"></i>&nbsp;&nbsp;Version Control with Git <br>
-<i class="fa fa-github"></i>&nbsp;&nbsp;Project Hosting with GitHub<br>
-<i class="fa fa-gears"></i>&nbsp;&nbsp;Automation with GNU Make<br>
-<i class="fa fa-spinner"></i>&nbsp;&nbsp;Running scripts non-interactively<br>
-<i class="fa fa-refresh"></i>&nbsp;&nbsp;Data Analysis Project workflow<br>
-<i class="fa fa-sitemap"></i>&nbsp;&nbsp;Project Organization <br>
-<i class="fa fa-level-down"></i>&nbsp;&nbsp;Markdown<br>
-<i class="fa fa-font"></i>&nbsp;&nbsp;LaTex and Beamer<br>
-<i class="fa fa-arrows-alt"></i>&nbsp;&nbsp;Pandoc (document converter)<br>
-<i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;Writing reports<br>
-<i class="fa fa-file-code-o"></i>&nbsp;&nbsp;Dynamic documents<br>
-<i class="fa fa-puzzle-piece"></i>&nbsp;&nbsp;R package "knitr"<br>
-<i class="fa fa-recycle"></i>&nbsp;&nbsp;R package "rmarkdown"<br>
-<i class="fa fa-sliders"></i>&nbsp;&nbsp;R package "shiny"<br>
-<i class="fa fa-bar-chart"></i>&nbsp;&nbsp;Data Visualization<br>
-<i class="fa fa-code"></i>&nbsp;&nbsp;Coding practices<br>
-<i class="fa fa-unlock"></i>&nbsp;&nbsp;Open Science<br>
-<i class="fa fa-picture-o"></i>&nbsp;&nbsp;Presentation skills<br>
-<i class="fa fa-cc"></i>&nbsp;&nbsp;Licenses
+Programming concepts may include:
+
+- data and text manipulation
+- data structures
+- flow control
+- functions and variable scope
+- regular expressions
+- matrix manipulations
+- debugging
+- parallel processing
+
+Statistical computing topics may include:
+
+- numerical linear algebra
+- simulation studies and Monte Carlo methods
+- numerical optimization
+- numerical integration/differentiation
+
+The coverage of these topics complement the models/methods discussed
+in the rest of the statistics graduate curriculum.
+
+We will also cover the basics of UNIX/Linux, in particular some basic shell
+scripting.
 
 
-### Course cornerstones:
+### Informal prerequisites
 
-- __Reproducibility:__ The ability to recreate a past analysis, which is 
-crucial for good science.
-- __Automation:__ The ability to rapidly recreate an analysis when data
-and/or input changes (as it always does).
-- __Communication:__ The ability to clearly present, share, and communicate 
-your work to others.
+If you are not a statistics or biostatistics graduate student, please chat 
+with me if you're not sure if this course makes sense for you.
+A background in calculus, linear algebra, probability and statistics is
+expected, as well as a basic ability to operate on a computer (but not
+necessary a UNIX variant).
+ 
+Furthermore, I'm expecting you will know the basics of R, at the level
+of the material in the [R bootcamp](https://github.com/berkeley-scf/r-bootcamp-2016) offered by Chris Paciorek Aug. 20-21, 2016. If you don't have that background 
+you'll need to spend time in the initial couple weeks getting up to speed.
+
+
+### Objectives of the Course
+
+The goals of the course are that, by the end of the course, students be
+able to:
+
+- operate effectively in a UNIX environment
+- program effectively in R with an advanced knowledge of R functionality and
+ an understanding of general programming concepts; and
+- be familiar with concepts and tools for reproducible research and good 
+scientific computing practices; and
+- understand in depth and be able to make use of principles of numerical linear
+ algebra, optimization, and simulation for statistics-related research.
+
+
+### Primary References
+
+- Chambers, John; __Software for Data Analysis: Programming with R__. 
+Available electronically through OskiCat: 
+ [http://dx.doi.org/10.1007/978-0-387-75936-4](http://dx.doi.org/10.1007/978-0-387-75936-4)
+
+- Adler, Joseph; __R in a Nutshell__. 
+Available electronically through OskiCat:
+[http://uclibs.org/PID/151634](http://uclibs.org/PID/151634)
+
+- Wickham, Hadley; __Advanced R__.
+Available electronically:
+[http://adv-r.had.co.nz/](http://adv-r.had.co.nz/)
+
+- Matloff, Norman; __The Art of R Programming__.
+Available electronically through OskiCat: 
+[http://site.ebrary.com/lib/berkeley/Doc?id=10513550](http://site.ebrary.com/lib/berkeley/Doc?id=10513550)
+
 
 
 ### Grading Structure
@@ -78,46 +117,54 @@ and will involve your questions, opinions, and participation.
 - Instead of late HW, I will drop your lowest two HW scores.
 
 
-### Pop Quiz policy
+### Problem Sets
 
-- There will be written pop quizzes during lab (between 4 and 5 approx)
-- I will drop the lowest quiz score
-- No makeup quizzes (no exceptions)
+Problems will sometimes be somewhat open-ended, so those coming in at different
+levels may explore things with more or less sophistication.
+I'm also open to you defining your own assignment for a given topic, if
+you are working on a specific problem.
+E.g., instead of working on a particular text manipulation problem I assign,
+you might work with your own text data. Check with me before forging ahead.
 
-
-### Project Policy
-
-- There will be three projects (~ one each month)
-- If you fail to submit any of the projects, you will fail the course
-- I will provide a list of project requirements
-- Meeting all requirements gives you a B, but does not guarantee an A
-- We are expecting that you add value and personal touch to each project
-- Projects 2 and 3 cannot be done individually (you need to COLLABORATE!)
+We will be less willing to help you if you come to our office hours or Piazza
+at the last minute.
+Working with computers can be unpredictable, so give yourself plenty of
+time for the assignments.
 
 
-### In-class Presentation Policy
+### Group Project Policy
 
-- There will be one in-class presentation (teams of 4 members)
-- Presentations are based on assigned readings
-- Each team will have to prepare some slides and a written report
-- The written report must be submitted no later than the day of the presentation
-- Each team will have a max of 45 minutes (~ 35 min talk + 10 min Q&A's)
-- All slides have to be publicly shared
-- Each team will have one week after the presentation to share their slides
-- At the end of the course, the slides must be available in a github repo
-- Links to the slides will be included in the course website
-- As the course advances, the grading of presentations will become more strict
-- No makeup presentations (no exceptions)
-
-
-### Collaboration Policy
-
-- You will have to work in teams (presentation, 2nd and 3rd projects)
+- The final project will be a joint coding project in groups of 3-4.
+- I'll assign an overall task, and you'll be responsible for dividing up
+ the work, coding, debugging, testing, and documentation.
+- You'll need to use a version control system such as Git for working in
+ your group.
 - All team members must be knowledgeable of other members contributions
 - You will be responsible to do peer review and check each other’s work
 - It’s possible to have conflicts between team members. If this happends,
 you will have to solve them (don't ask me to solve your problems)
-- If you have a lot of commitments (e.g. sports, cal band) come talk to me ASAP
+
+
+### Collaboration Policy
+
+I encourage you to work together and help each other out, in the context
+ of the following guidelines.
+
+- In terms of questions/challenges posed in class that we'll discuss at the
+ next class, anything goes.
+- In terms of the problem sets, you should first try to figure out a given
+ problem on your own.
+- After that, if you're stuck or want to explore alternative approaches,
+ feel free to consult with your fellow students, the GSI, and me.
+- You should not ask for nor share complete code or solutions
+- Basically, you can help each other out, but no one should be doing the
+ work for someone else.
+- In particular, __your solution to a problem set (writeup and code) must be your own__,
+and you'll hear from me if either look too similar to someone else's.
+
+
+
+
 
 
 ### <a name="email-policy"></a>Email Policy
@@ -134,9 +181,41 @@ you will have to solve them (don't ask me to solve your problems)
 
 ### Academic Honesty
 
-Do your own work. Collaborating on homework is fine—but copying is not, nor is having somebody else submit assignments for you. Cheating will not be tolerated. Anyone found cheating will receive an F and will be reported to the [Center for the Student Conduct](http://sa.berkeley.edu/conduct).
+Please see the last section of this document for more information on the
+ Campus Honor Code, which I expect you to follow.
 
+The student community at UC Berkeley has adopted the following Honor Code:
+ "As a member of the UC Berkeley community, I act with honesty, integrity,
+ and respect for others." The hope and expectation is that you will adhere
+ to this code.
 
-### Disability
+Collaboration and Independence: Reviewing lecture and reading materials
+ and studying for exams can be enjoyable and enriching things to do with
+ fellow students. This is recommended.
+ However, unless otherwise instructed, homework assignments are to be completed
+ independently and materials submitted as homework should be the result
+ of one's own independent work.
 
-If you need accommodations for any physical, psychological, or learning disability, please speak to me after class or during office hours. Please make arrangements in a timely manner (through DSP) so that I can make the appropriate accommodations.
+__Cheating:__ A good lifetime strategy is always to act in such a way that no
+ one would ever imagine that you would even consider cheating.
+ Anyone caught cheating on a quiz or exam in this course will receive a
+ failing grade in the course and will also be reported to the University
+ Center for Student Conduct.
+ In order to guarantee that you are not suspected of cheating, please keep
+ your eyes on your own materials and do not converse with others during
+ the quizzes and exams.
+
+ __Plagiarism:__ To copy text or ideas from another source without appropriate
+ reference is plagiarism and will result in a failing grade for your assignment
+ and usually further disciplinary action.
+ For additional information on plagiarism and how to avoid it, see, for
+ example: [http://gsi.berkeley.edu/teachingguide/misconduct/prevent-plag.html](http://gsi.berkeley.edu/teachingguide/misconduct/prevent-plag.html)
+
+__Academic Integrity and Ethics:__ Cheating on exams and plagiarism are two
+ common examples of dishonest, unethical behavior.
+ Honesty and integrity are of great importance in all facets of life.
+ They help to build a sense of self-confidence, and are key to building
+ trust within relationships, whether personal or professional.
+ There is no tolerance for dishonesty in the academic world, for it undermines
+ what we are dedicated to doing – furthering knowledge for the benefit of
+ humanity.
