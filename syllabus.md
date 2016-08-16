@@ -84,39 +84,6 @@ Available electronically through OskiCat:
 [http://site.ebrary.com/lib/berkeley/Doc?id=10513550](http://site.ebrary.com/lib/berkeley/Doc?id=10513550)
 
 
-
-### Grading Structure
-
--  5% in-class presentation
--  5% github repositories
-- 10% lab work and quizzes
-- 20% homework
-- 10% project 1 (individual)
-- 20% project 2 (2 members)
-- 30% project 3 (4 members)
-
-
-### Format
-
-This course will focus heavily on in-class participation in addition to 
-assigned readings from scholarly journals, presentations from guest speakers, 
-several "feedback" assignments, and weekly blog articles in addition to 
-regular practice with the software tools listed in the description.
-
-Your persistent cooperation in group work and contributions to the course 
-will culminate into a collaborative term project. The format will be interactive 
-and will involve your questions, opinions, and participation.
-
-
-### Homework Policy
-
-- Weekly homework assignments are due as posted online.
-- Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
-- After the due date of each assignment, we will discuss the solutions during class.
-- No late assignments will be accepted, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
-- Instead of late HW, I will drop your lowest two HW scores.
-
-
 ### Problem Sets
 
 Problems will sometimes be somewhat open-ended, so those coming in at different
