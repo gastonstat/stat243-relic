@@ -159,6 +159,19 @@ think about and discuss.
 To increase time for discussion and assimilation of the material in class,
 before some classes I may ask that you read material in advance of class.
 
+Student backgrounds with computing will vary.
+For those of you with limited background on a topic, I encourage you to
+ask questions during class so I know what you find confusing.
+For those of you with extensive background on a topic (there will invariably
+be some topics where one of you will know more about it than I do), I encourage
+you to pitch in with your perspective.
+In general, there are many ways to do things on a computer, particularly
+in a UNIX environment, so it will help everyone (including me) if we hear
+multiple perspectives/ideas.
+
+Please do not use phones during class and limit laptop use to the material
+being covered.
+
 
 ### <a name="email-policy"></a>Email Policy
 
