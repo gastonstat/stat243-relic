@@ -32,10 +32,12 @@ Statistical computing topics may include:
 - numerical integration/differentiation
 
 The coverage of these topics complement the models/methods discussed
-in the rest of the statistics graduate curriculum.
+in the rest of the statistics graduate curriculum. We will also cover the 
+basics of UNIX/Linux, in particular some basic shell scripting.
 
-We will also cover the basics of UNIX/Linux, in particular some basic shell
-scripting.
+Note that I aim to have the course be useful to those who already know a
+fair amount of R by (1) covering more advanced aspects of R, and (2) through
+the extensive coverage of the statistical computing topics.
 
 
 ### Informal prerequisites
@@ -99,6 +101,23 @@ Working with computers can be unpredictable, so give yourself plenty of
 time for the assignments.
 
 
+#### Problem Set grading
+
+The grading scheme for problem sets is:
+
+- 0 = no credit
+- 1 = partial credit (you did some of the problems but not all)
+- 2 = satisfactory (you tried everything but there were pieces of what you
+ did that didn't solve one or more problems in a complete way
+- 3 = full credit
+- 3+ = extra credit 
+
+If you turn in a PS late, I'll bump you down a number.
+If you turn it in really late (i.e., after I start grading them), I may bump
+you down two levels.
+No credit after solutions are distributed.
+
+
 ### Group Project Policy
 
 - The final project will be a joint coding project in groups of 3-4.
@@ -130,8 +149,15 @@ I encourage you to work together and help each other out, in the context
 and you'll hear from me if either look too similar to someone else's.
 
 
+### Class Time
 
-
+My goal is to have classes be an interactive environment.
+This is both more interesting for all of us (hopefully) and more effective
+in learning the material.
+I encourage you to ask questions and will pose questions to the class to
+think about and discuss.
+To increase time for discussion and assimilation of the material in class,
+before some classes I may ask that you read material in advance of class.
 
 
 ### <a name="email-policy"></a>Email Policy
