@@ -20,5 +20,5 @@ Tentative calendar, Fall 2016
 - Simulation studies and Monte Carlo (3 days)
 - Numerical integration and differentiation (2 days)
 - Optimization (2 days)
-- Parallel processing (tbd) with Chris Pacioreck
-- Working with databases, hashing, and big data (tbd) with Chris Pacioreck
+- Parallel processing (tbd) with Chris Paciorek
+- Working with databases, hashing, and big data (tbd) with Chris Paciorek
