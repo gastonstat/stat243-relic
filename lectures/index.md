@@ -7,6 +7,7 @@ Tentative calendar, Fall 2016
 
 -----
 
+- [About the Course](00-about-course)
 - Introduction to UNIX, the bash shell and
  shell scripting, version control (4 days)
 - Using R: functions and variable scope, data and text manipulation, strings

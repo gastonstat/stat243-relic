@@ -43,4 +43,8 @@ We are going to be using several tools along this course. Which means that you w
 - If you work on a Mac, make sure you have installed __Xcode__
 - If you work on a PC (Windows), you should install one of the following:
 	+ [gitbash](https://openhatch.org/missions/windows-setup/install-git-bash)
-	
+
+
+### Initial survey
+
+Please fill the survery: [bit.ly/2bNBE8l](http://bit.ly/2bNBE8l)
