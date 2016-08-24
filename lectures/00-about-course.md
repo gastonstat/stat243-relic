@@ -47,4 +47,4 @@ We are going to be using several tools along this course. Which means that you w
 
 ### Initial survey
 
-Please fill the survery: [bit.ly/2bNBE8l](http://bit.ly/2bNBE8l)
+Please fill the survey: [bit.ly/2bNBE8l](http://bit.ly/2bNBE8l)
