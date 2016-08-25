@@ -7,7 +7,34 @@ Tentative calendar, Fall 2016
 
 -----
 
-- [About the Course](00-about-course)
+<hr>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Week</th>
+      <th align="left">Dates</th>
+      <th align="left">Topic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>
+        Aug-24<br>
+        Aug-26
+      </td>
+      <td>
+        <a href="00-about-course">About the course</a><br>
+        <a href="00-housekeeping">Housekeeping: R basics</a><br>
+      </td>
+    </tr>
+  </tbody>
+ </table>
+
+
+-----
+
 - Introduction to UNIX, the bash shell and
  shell scripting, version control (4 days)
 - Using R: functions and variable scope, data and text manipulation, strings
