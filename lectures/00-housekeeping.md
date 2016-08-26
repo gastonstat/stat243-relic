@@ -3,7 +3,7 @@ layout: lecture
 title: "Housekeeping"
 ---
 
-### Week 0 - R housekeeping
+### Week 0 - R housekeeping session
 
 In this lecture I'll give an introduction to R and RStudio
 
