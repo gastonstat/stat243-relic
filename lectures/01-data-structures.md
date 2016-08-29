@@ -3,15 +3,13 @@ layout: lecture
 title: "Using R"
 ---
 
-### Week 1 - Using R: Data Structures
+### Week 1 - Data Structures part 1
 
 - Data Types
-- Data Structures
-	+ Vectors
-	+ Factors
-	+ Matrices and Arrays
-	+ Lists
-	+ Data Frames
+	+ Integer
+	+ Double
+	+ Logical
+	+ Character
 - About vectors:
 	+ Atomic structures
 	+ Implicit coercion
@@ -20,8 +18,6 @@ title: "Using R"
 	+ Recycling
 - Indexing and subsetting
 	+ Bracket notation `[ ]`
-	+ Double brackets `[[ ]]`
-	+ Dollar notation `$`
 	+ numeric, logical, and character indices
 
 
