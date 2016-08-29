@@ -11,17 +11,19 @@ In this lecture I'll give an introduction to R and RStudio
 	+ [https://www.r-project.org](https://www.r-project.org)
 	+ [RStudio Downloads](https://www.rstudio.com/products/rstudio/download/)
 - History of R
+	+ [R Past and Future](https://cran.r-project.org/doc/html/interface98-paper/paper.html) by Ross Ihaka, 1998
 - R GUI
 - RStudio:
+	+ You'll be mainly working with R through RStudio
 	+ Integrated Development Environment (IDE)
-	+ getting to know RStudio
+	+ Get to know RStudio
 	+ panes (source, console, environment, files-plots-etc)
 	+ Customizing: see "Tools" > "Global Options"
-	+ customizing panes
-	+ customizing appearance (font, size, theme)
-	+ customizing code options
-	+ cheat-sheets
-	+ autocompletion
+	+ Customize the panes
+	+ Customize the appearance (font, size, theme)
+	+ Customize code options
+	+ Take a look at the cheat-sheets
+	+ Explore the tab autocompletion
 - Source files:
 	- R script files `.R`
 	- R Markdown files `.Rmd`
@@ -33,11 +35,16 @@ In this lecture I'll give an introduction to R and RStudio
 	- Length of scripts
 	- Breaking down scripts
 - Packages
+	+ Learn how to install packages
+	+ Learn how to load packages
 - Help
+	+ Learn how to get help
+	+ Manual documentation with the `help()` function
+	+ The `help.search()` function
 - Work session
 	+ Working directory
 	+ workspace (.RData, load, save, clear)
-	+ `.Rhistory`
+	+ Don't forget the `.Rhistory` file
 	+ quitting R
 - Quick tour of CRAN
 
