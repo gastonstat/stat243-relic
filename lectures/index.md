@@ -35,9 +35,9 @@ Tentative calendar, Fall 2016
         Sep-02
       </td>
       <td>
-        <a href="01-data-structures">Data structures in R</a><br>
-        R expressions, simple functions, conditionals<br>
-        Loops
+        <a href="01-data-structures">Data structures (part 1)</a><br>
+        <a href="01-expressions-control-flow">R expressions, simple functions, conditionals</a><br>
+        Loops (for, while, repeat)
       </td>
     </tr>
     <tr>
@@ -49,8 +49,8 @@ Tentative calendar, Fall 2016
       </td>
       <td>
         <em>Holiday</em><br>
-        R input<br>
-        R output
+        <a href="01-data-structures2">Data structures (part 2)</a><br>
+        Manipulating R objects
       </td>
     </tr>
   </tbody>
