@@ -50,7 +50,7 @@ Tentative calendar, Fall 2016
       <td>
         <em>Holiday</em><br>
         <a href="01-data-structures2">Data structures (part 2)</a><br>
-        Manipulating R objects
+        Basics of Writing Functions
       </td>
     </tr>
   </tbody>
@@ -63,8 +63,8 @@ Tentative Content
 
 - R basics (part 1): data structures, data input/output (3 days)
 - Using R (part 2): Programming structures: functions, conditionals, loops
-- Using R (part 3): Data and text manipulation, strings and regular expressions (3 days)
 - Introduction to UNIX, the bash shell, and shell scripting (4 days)
+- Using R (part 3): Data and text manipulation, strings and regular expressions (3 days)
 - R programming: More functions and variable scope, debugging, good 
 programming practices, reproducible research (2 days)
 - Advanced R programming: environments, object oriented programming, efficient
@@ -77,3 +77,4 @@ programming practices, reproducible research (2 days)
 - Optimization (2 days)
 - Parallel processing (tbd) with Chris Paciorek
 - Working with databases, hashing, and big data (tbd) with Chris Paciorek
+
