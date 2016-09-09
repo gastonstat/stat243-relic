@@ -37,7 +37,7 @@ Tentative calendar, Fall 2016
       <td>
         <a href="01-data-structures">Data structures (part 1)</a><br>
         <a href="01-expressions-control-flow">R expressions, simple functions, conditionals</a><br>
-        Loops (for, while, repeat)
+        <a href="01-expressions-control-flow">Loops (for, while, repeat)</a>
       </td>
     </tr>
     <tr>
@@ -49,8 +49,21 @@ Tentative calendar, Fall 2016
       </td>
       <td>
         <em>Holiday</em><br>
-        <a href="01-data-structures2">Data structures (part 2)</a><br>
-        Basics of Writing Functions
+        <a href="01-writing-functions">Data structures (part 2)</a><br>
+        <a href="02-bash-introduction">Introduction to Bash Shell</a>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+        Sep-12<br>
+        Sep-14<br>
+        Sep-16
+      </td>
+      <td>
+        Redicrection and Piping<br>
+        Shell Scripts<br>
+        Regular Expressions
       </td>
     </tr>
   </tbody>
