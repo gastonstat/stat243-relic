@@ -49,7 +49,7 @@ Tentative calendar, Fall 2016
       </td>
       <td>
         <em>Holiday</em><br>
-        <a href="01-writing-functions">Data structures (part 2)</a><br>
+        <a href="01-writing-functions">Basics of Writing Functions</a><br>
         <a href="02-bash-introduction">Introduction to Bash Shell</a>
       </td>
     </tr>
