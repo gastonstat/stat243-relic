@@ -7,6 +7,8 @@ title: "Unix and Bash"
 
 We are going to work on the [The Unix Shell](http://swcarpentry.github.io/shell-novice/) workshop (by Software Carpentry)
 
+Download the `shell-novice-data.zip` file from [http://swcarpentry.github.io/shell-novice/setup/](http://swcarpentry.github.io/shell-novice/setup/)
+
 1. [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/)
 2. [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)
 3. [Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/)
