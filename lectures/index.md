@@ -61,7 +61,7 @@ Tentative calendar, Fall 2016
         Sep-16
       </td>
       <td>
-        Redicrection and Piping<br>
+        <a href="02-redirection-piping">Redirection and Piping</a><br>
         Shell Scripts<br>
         Regular Expressions
       </td>
