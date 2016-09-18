@@ -76,7 +76,7 @@ Tentative calendar, Fall 2016
       <td>
         <a href="03-input-data">Input Data</a><br>
         <a href="03-output-data">Output Data</a><br>
-        cont'd</a>
+        cont'd
       </td>
     </tr>
   </tbody>
