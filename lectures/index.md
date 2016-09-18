@@ -66,6 +66,19 @@ Tentative calendar, Fall 2016
         <a href="02-shell-scripts">Shell Scripts</a>
       </td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>
+        Sep-19<br>
+        Sep-21<br>
+        Sep-23
+      </td>
+      <td>
+        <a href="03-input-data">Input Data</a><br>
+        <a href="03-output-data">Output Data</a><br>
+        cont'd</a>
+      </td>
+    </tr>
   </tbody>
  </table>
 
