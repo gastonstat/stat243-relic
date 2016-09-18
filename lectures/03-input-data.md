@@ -4,10 +4,18 @@ title: "Using R: Data Input"
 ---
 
 
+### Operating System Dependencies
+
+- Displaying platform specific values with `.Platform()`
+- Character string used for separating files: `.Platform$file.sep`
+- Constructing paths to files with `file.path()` (in a platform independent way)
+- e.g. `file.path("directory", "subdir", "file.csv")`
+
+
 ### Interacting with the file system
 
-- Invoking shell commands with `system()` (or `system2()`)
-- Windows users have also the `shell()` function
+- Displaying the current working directory with `getwd()`
+- Setting the working directory with `setwd()`
 - Listing files in a directory with `list.files()` and `dir()`
 - Creating files with `file.create()`
 - Checking whether a file exists with `file.exists()`
@@ -16,7 +24,15 @@ title: "Using R: Data Input"
 - Copying a file with `file.copy()`
 - Deleting files with `file.remove()`
 - Deleting files with `unlink()`
+- Information about a file with `file.info()`
+- Display file permissions with `file.access()`
 - Download a file with `download.file()`
+
+
+### Invoking shell commands
+
+- Invoking shell commands with `system()` (or `system2()`)
+- Windows users have also the `shell()` function
 
 
 ### Importing Data Tables
@@ -46,9 +62,28 @@ title: "Using R: Data Input"
 
 ### Low level data input functions
 
-- Reading numeric data with `scan()`
-- Reading data in columns with `scan()`
+- The most low-level reading function is `scan()`
+- Default: reading numeric data with `scan()`
+- More complex: reading data in columns with `scan()`
+- The other generic function function for file input is `readLines()`
 - Reading multiple lines with `readLines()`
+
+
+### R's binary format
+
+- R objects can be saved in a standard binary format
+- R's binary format is platform independent
+- An arbitrary number of R objects can be saved into a single file using `save()`
+- The default binary file extension is `.RData` (or the old format `.Rda`)
+- Use `load()` to read in an `.RData` file
+
+
+### Connections
+
+- Underlying the reading data functions we have the concept of __connections__
+- create and manipulate a file connection with `file()`
+- URL resource connections with `url()`
+- closing connection with `close()`
 
 
 ### References
