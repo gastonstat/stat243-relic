@@ -6,7 +6,7 @@ title: "Using R: Data Input"
 
 ### Operating System Dependencies
 
-- Displaying platform specific values with `.Platform()`
+- Displaying platform specific values with `.Platform`
 - Character string used for separating files: `.Platform$file.sep`
 - Constructing paths to files with `file.path()` (in a platform independent way)
 - e.g. `file.path("directory", "subdir", "file.csv")`
