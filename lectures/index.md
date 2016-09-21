@@ -79,13 +79,26 @@ Tentative calendar, Fall 2016
         cont'd
       </td>
     </tr>
+    <tr>
+      <td>5</td>
+      <td>
+        Sep-26<br>
+        Sep-28<br>
+        Sep-30
+      </td>
+      <td>
+        <a href="04-strings">Manipulating strings and regular expressions</a><br>
+        Strings and Regex cont'd<br>
+        Strings and Regex cont'd
+      </td>
+    </tr>
   </tbody>
  </table>
 
 
 -----
 
-Tentative Content
+Tentative Content (not necessarily in this order)
 
 - R basics (part 1): data structures, data input/output (3 days)
 - Using R (part 2): Programming structures: functions, conditionals, loops
