@@ -92,6 +92,45 @@ Tentative calendar, Fall 2016
         Strings and Regex cont'd
       </td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td>
+        Oct-03<br>
+        Oct-05<br>
+        Oct-07
+      </td>
+      <td>
+        <a href="http://adv-r.had.co.nz/Functions.html" target="_blank">Functions and Scoping</a><br>
+        <a href="http://adv-r.had.co.nz/Environments.html" target="_blank">Environments</a><br>
+        Efficient code
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+        Oct-10<br>
+        Oct-12<br>
+        Oct-14
+      </td>
+      <td>
+        Profiling and performance<br>
+        Memory Management<br>
+        <a href="http://adv-r.had.co.nz/OO-essentials.html" target="_target">Object Oriented Programming</a>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+        Oct-17<br>
+        Oct-19<br>
+        Oct-21
+      </td>
+      <td>
+        <a href="http://r-pkgs.had.co.nz/" target="_target">Intro to R packaging</a><br>
+        <a href="http://r-pkgs.had.co.nz/" target="_target">Intro to R packaging</a><br>
+        <a href="http://r-pkgs.had.co.nz/tests.html" target="_target">tests</a>
+      </td>
+    </tr>
   </tbody>
  </table>
 
