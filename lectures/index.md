@@ -102,7 +102,7 @@ Tentative calendar, Fall 2016
       <td>
         <a href="http://adv-r.had.co.nz/Functions.html" target="_blank">Functions and Scoping</a><br>
         <a href="http://adv-r.had.co.nz/Environments.html" target="_blank">Environments</a><br>
-        Efficient code
+        <a href="http://adv-r.had.co.nz/Performance.html" target="_blank">Efficient code</a>
       </td>
     </tr>
     <tr>
@@ -113,9 +113,10 @@ Tentative calendar, Fall 2016
         Oct-14
       </td>
       <td>
-        Profiling and performance<br>
-        Memory Management<br>
-        <a href="http://adv-r.had.co.nz/OO-essentials.html" target="_target">Object Oriented Programming</a>
+        Object Oriented Programming (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/13-programming-s3classes.pdf" target="_blank">unit 13</a><br>
+        <a href="http://adv-r.had.co.nz/OO-essentials.html" target="_target">OOP field guide</a><br>
+        OOP S3 and S4 classes (cont'd)<br>
+        <a href="http://shiny.rstudio.com/tutorial/" target="_target">Intro to Shiny Apps</a>
       </td>
     </tr>
     <tr>
