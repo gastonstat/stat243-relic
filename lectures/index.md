@@ -113,10 +113,9 @@ Tentative calendar, Fall 2016
         Oct-14
       </td>
       <td>
-        Object Oriented Programming (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/13-programming-s3classes.pdf" target="_blank">unit 13</a><br>
+        Object Oriented Programming (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/13-programming-s3classes.pdf" target="_blank">unit 13</a>)<br>
         <a href="http://adv-r.had.co.nz/OO-essentials.html" target="_target">OOP field guide</a><br>
-        OOP S3 and S4 classes (cont'd)<br>
-        <a href="http://shiny.rstudio.com/tutorial/" target="_target">Intro to Shiny Apps</a>
+        OOP with S4 classes (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/14-programming-s4classes.pdf" target="_blank">unit 14</a>)
       </td>
     </tr>
     <tr>
@@ -130,6 +129,32 @@ Tentative calendar, Fall 2016
         <a href="http://r-pkgs.had.co.nz/" target="_target">Intro to R packaging</a><br>
         <a href="http://r-pkgs.had.co.nz/" target="_target">Intro to R packaging</a><br>
         <a href="http://r-pkgs.had.co.nz/tests.html" target="_target">tests</a>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+        Oct-24<br>
+        Oct-26<br>
+        Oct-28
+      </td>
+      <td>
+        <a href="http://shiny.rstudio.com/tutorial/" target="_target">Intro to Shiny Apps</a><br>
+        Random Numbers and Simulations<br>
+        Random Numbers and Simulations (cont'd)
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+        Oct-31<br>
+        Nov-02<br>
+        Nov-04
+      </td>
+      <td>
+        TBA: Matrix Algebra?<br>
+        TBA: Matrix Algebra?<br>
+        TBA: Matrix Algebra?
       </td>
     </tr>
   </tbody>
