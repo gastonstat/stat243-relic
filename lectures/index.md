@@ -140,8 +140,8 @@ Tentative calendar, Fall 2016
       </td>
       <td>
         <a href="http://shiny.rstudio.com/tutorial/" target="_target">Intro to Shiny Apps</a><br>
-        Random Numbers and Simulations<br>
-        Random Numbers and Simulations (cont'd)
+        Random Numbers and Simulations (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/16-random-simulations.pdf" target="_blank">unit 16</a>)<br>
+        Intro to matrix algebra (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/17-matrix-algebra.pdf" target="_blank">unit 17</a>)
       </td>
     </tr>
     <tr>
@@ -152,9 +152,9 @@ Tentative calendar, Fall 2016
         Nov-04
       </td>
       <td>
-        TBA: Matrix Algebra?<br>
-        TBA: Matrix Algebra?<br>
-        TBA: Matrix Algebra?
+        Matrix Algebra<br>
+        Matrix Algebra<br>
+        Matrix Algebra
       </td>
     </tr>
   </tbody>
