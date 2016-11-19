@@ -48,7 +48,7 @@ Tentative calendar, Fall 2016
         Sep-09
       </td>
       <td>
-        <em>Holiday</em><br>
+        <em>Holiday (Labor Day)</em><br>
         <a href="01-writing-functions">Basics of Writing Functions</a><br>
         <a href="02-bash-introduction">Introduction to Bash Shell</a>
       </td>
@@ -167,7 +167,7 @@ Tentative calendar, Fall 2016
       <td>
         Decomposition algorithms (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/19-nipals-als-normalized-weights.R" target="_blank">unit 19</a>)<br>
         SVD and EVD relationship and R code (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/19-svd-evd.R" target="_blank">unit 19</a>)<br>
-        <em>Holiday</em>
+        <em>Holiday (Veterans Day)</em>
       </td>
     </tr>
     <tr>
@@ -181,6 +181,32 @@ Tentative calendar, Fall 2016
         <a href="https://github.com/berkeley-scf/tutorial-parallel-basics" target="_blank">Basic parellelization tools</a> (by Chris Paciorek)<br>
         <a href="https://github.com/berkeley-scf/spark-stat243-2016" target="_blank">Spark demo</a> (by Chris Paciorek)<br>
         <a href="https://docs.google.com/presentation/d/1puXYL5GTaM1uN0K3bFvL2ZNCZjXIwCJ5es2iJytd-go/pub?start=false&loop=false&delayms=3000" target="_blank">Concepts of multiple table analysis</a>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+        Nov-21<br>
+        Nov-23<br>
+        Nov-25
+      </td>
+      <td>
+        Concepts of multiple table analysis (cont'd)<br>
+        <em>No lecture</em><br>
+        <em>Holiday (Thanksgiving)</em>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+        Nov-28<br>
+        Nov-30<br>
+        Dec-02
+      </td>
+      <td>
+        Graphics<br>
+        Graphics<br>
+        Graphics</em>
       </td>
     </tr>
   </tbody>
@@ -199,12 +225,11 @@ Tentative Content (not necessarily in this order)
 programming practices, reproducible research (2 days)
 - Advanced R programming: environments, object oriented programming, efficient
  programming, computing on the language (5 days)
-- Graphics (3 days)
 - Computer arithmetic/representation of numbers on a computer (2 days)
-- Numerical linear algebra (4 days)
+- Numerical linear algebra (5 days)
 - Simulation studies and Monte Carlo (3 days)
 - Numerical integration and differentiation (2 days)
-- Optimization (2 days)
 - Parallel processing (tbd) with Chris Paciorek
 - Working with databases, hashing, and big data (tbd) with Chris Paciorek
+- Graphics (3 days)
 
