@@ -152,9 +152,35 @@ Tentative calendar, Fall 2016
         Nov-04
       </td>
       <td>
-        Matrix Algebra<br>
-        Matrix Algebra<br>
-        Matrix Algebra
+        Transformations and scaling (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/17-matrix-algebra.pdf" target="_blank">unit 17</a>)<br>
+        Matrix Decompositions (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/18-matrix-decompositions.pdf">unit 18</a>)<br>
+        Matrix Decompositions (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/18-matrix-decompositions.pdf">unit 18</a>)
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+        Nov-07<br>
+        Nov-09<br>
+        Nov-11
+      </td>
+      <td>
+        Decomposition algorithms (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/19-nipals-als-normalized-weights.R">unit 19</a>)<br>
+        SVD and EVD relationship and R code (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/19-svd-evd.R">unit 19</a>)<br>
+        <em>Holiday</em>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+        Nov-14<br>
+        Nov-16<br>
+        Nov-18
+      </td>
+      <td>
+        <a href="https://github.com/berkeley-scf/tutorial-parallel-basics" target="_blank">Basic parellelization tools</a> (by Chris Paciorek)<br>
+        <a href="https://github.com/berkeley-scf/spark-stat243-2016" target="_blank">Spark demo</a> (by Chris Paciorek)<br>
+        <a>Concepts of multiple table analysis</a>
       </td>
     </tr>
   </tbody>
