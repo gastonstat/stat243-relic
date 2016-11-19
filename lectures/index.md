@@ -206,7 +206,7 @@ Tentative calendar, Fall 2016
       <td>
         Graphics<br>
         Graphics<br>
-        Graphics</em>
+        Graphics
       </td>
     </tr>
   </tbody>
