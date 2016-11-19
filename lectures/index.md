@@ -153,8 +153,8 @@ Tentative calendar, Fall 2016
       </td>
       <td>
         Transformations and scaling (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/17-matrix-algebra.pdf" target="_blank">unit 17</a>)<br>
-        Matrix Decompositions (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/18-matrix-decompositions.pdf">unit 18</a>)<br>
-        Matrix Decompositions (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/18-matrix-decompositions.pdf">unit 18</a>)
+        Matrix Decompositions (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/18-matrix-decompositions.pdf" target="_blank">unit 18</a>)<br>
+        Matrix Decompositions (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/18-matrix-decompositions.pdf" target="_blank">unit 18</a>)
       </td>
     </tr>
     <tr>
@@ -165,8 +165,8 @@ Tentative calendar, Fall 2016
         Nov-11
       </td>
       <td>
-        Decomposition algorithms (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/19-nipals-als-normalized-weights.R">unit 19</a>)<br>
-        SVD and EVD relationship and R code (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/19-svd-evd.R">unit 19</a>)<br>
+        Decomposition algorithms (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/19-nipals-als-normalized-weights.R" target="_blank">unit 19</a>)<br>
+        SVD and EVD relationship and R code (see <a href="https://github.com/ucb-stat243/stat243-fall-2016/blob/master/units/19-svd-evd.R" target="_blank">unit 19</a>)<br>
         <em>Holiday</em>
       </td>
     </tr>
@@ -180,7 +180,7 @@ Tentative calendar, Fall 2016
       <td>
         <a href="https://github.com/berkeley-scf/tutorial-parallel-basics" target="_blank">Basic parellelization tools</a> (by Chris Paciorek)<br>
         <a href="https://github.com/berkeley-scf/spark-stat243-2016" target="_blank">Spark demo</a> (by Chris Paciorek)<br>
-        <a>Concepts of multiple table analysis</a>
+        <a href="https://docs.google.com/presentation/d/1puXYL5GTaM1uN0K3bFvL2ZNCZjXIwCJ5es2iJytd-go/pub?start=false&loop=false&delayms=3000" target="_blank">Concepts of multiple table analysis</a>
       </td>
     </tr>
   </tbody>
